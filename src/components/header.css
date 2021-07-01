@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.navbar{
+    display: flex;
+    background-color: #4dc3ff;
+    justify-content: center;
+    flex-direction: row;
+    height: 50px;
+    }
+.middle-font3{
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: left;
+    display: flex;
+    width: 150px;
+    padding-top: 30px;
+}
+.middle-font1{
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    justify-content: flex-end;
+    display: flex;
+    width: 150px;
+    padding-top: 30px;
+}
+.middle-font2{
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    text-align:center;
+    width: 102.160px;  
+    padding-top: 30px;
+}
+.lvl-Logo{
+    height: 50px;
+    text-align: left;
+    
+    
+}
+.middle{
+    display: flex;
+    width: 33%;
+}
+.right-side{
+    width: 33%;
+    display: grid;
+    
+
+}
+.right-side-font{
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    font-family: "open sans";
+}
+.left-side{
+    margin: auto;
+    width: 33%;
+}
+.rawiriPic{
+    height: 20px;
+    margin-top: 1px;
+    margin-right: 1px;
+}
+.flags{
+    display: flex;
+    margin-left: 230px;
+}
+.flagsPic{
+    height: 16px;
+    padding: 2px;
+}
